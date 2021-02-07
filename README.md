@@ -9,8 +9,8 @@
 ![7. kép](Központi_adatbázis2.JPG);
 ![8. kép](SQL_konzolos.JPG);
 ![9. kép](SQL_DBeaver.JPG);
-![10. kép](MongoDB konzolos.JPG);
-![11. kép](Többrétegű alkalmazások.JPG);
+![10. kép](MongoDB_konzolos.JPG);
+![11. kép](Többrétegű_alkalmazások.JPG);
 ![12. kép](Webes_alkalmazás.JPG);
 ![13. kép](Webes_alkalmazás_parancssorból.JPG);
 ![14. kép](Html_CSS.JPG);
