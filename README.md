@@ -78,7 +78,7 @@ Swagger
 
 Postman
 
-![19. kép](SPostman.JPG)
+![19. kép](Postman.JPG)
 
 Postman2
 
