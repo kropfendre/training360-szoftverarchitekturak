@@ -1,5 +1,7 @@
 # training360-szoftverarchitekturak
 
+1. hét
+
 Standalone_konzolos1
 
 ![1. kép](Standalone_konzolos1.JPG)
@@ -59,3 +61,25 @@ Webes_alkalmazás_parancssorból
 Html_CSS_VSCode
 
 ![15. kép](Html_CSS_VSCode.JPG)
+
+2. hét
+
+RIA_JS
+
+![16. kép](RIA_JS.JPG)
+
+Magas_rendelkezésre_állás
+
+![17. kép](Magas_rendelkezésre_állás.JPG)
+
+Swagger
+
+![18. kép](Swagger.JPG)
+
+Postman
+
+![19. kép](SPostman.JPG)
+
+Postman2
+
+![20. kép](Postman2.JPG)
